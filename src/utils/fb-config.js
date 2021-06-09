@@ -3,14 +3,14 @@ import 'firebase/auth';
 import 'firebase/database';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBMfw9khcAlYGMpfWwmc8pyxXl98imumKo",
-    authDomain: "restaurants-60826.firebaseapp.com",
-    databaseURL: "https://restaurants-60826-default-rtdb.firebaseio.com",
-    projectId: "restaurants-60826",
-    storageBucket: "restaurants-60826.appspot.com",
-    messagingSenderId: "394552474624",
-    appId: "1:394552474624:web:f4b93a6299dab64f59ece5",
-    measurementId: "G-Q3VM862W36"
+    apiKey: "AIzaSyClbrh9F_XDGjQzEGl7Bw8Ksy7Jsyc059k",
+    authDomain: "cuisine-f3c62.firebaseapp.com",
+    databaseURL: "https://cuisine-f3c62-default-rtdb.firebaseio.com",
+    projectId: "cuisine-f3c62",
+    storageBucket: "cuisine-f3c62.appspot.com",
+    messagingSenderId: "1013046022851",
+    appId: "1:1013046022851:web:e474c9b5898f5118290876",
+    measurementId: "G-7H4K7FH8DW"
   };
  
 firebase.initializeApp(firebaseConfig);
